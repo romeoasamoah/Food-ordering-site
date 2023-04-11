@@ -7,19 +7,26 @@ The administrator of the system should be able to handle functions like add new 
 
 Below are the Proposed Features of the Online Food Ordering System:
 Admin: 
+
 •	Add Food Items:
 Admin can add food items details like name, Photo, Description/ Ingredients, Price, Category etc.
+
 •	View / Edit (Price, Enable/Disable) / Delete Items:
 Admin can view, edit the food items details as well as Enable/Disable food items according to season or availability.
+
 •	View Orders:
 Admin can track live orders and Status Update for particular food delivery.
+
 •	View Transactions:
 View previous transaction by date search and total amount at end.
 User:
+
 •	Register:
 User have to register with essential details for food ordering system.
+
 •	Login:
 User have to login with their credentials to access food ordering system.
+
 •	Menu List:
 Different food items with respective categories viewable to user.
 •	Item Details:
