@@ -29,10 +29,13 @@ User have to login with their credentials to access food ordering system.
 
 •	Menu List:
 Different food items with respective categories viewable to user.
+
 •	Item Details:
 User can view food items details and buy the product by doing online payment.
+
 •	View Cart:
 User can view their cart details, delete food items from cart, update quantity etc.
+
 •	View Orders and Status:
 User can keep track of their orders with delivery status.
 
